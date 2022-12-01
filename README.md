@@ -2,7 +2,7 @@
 
 > Utilities for checking the coverage produced by NYC against extra or missing files
 
-## Use
+## Use 
 
 ```shell
 npm i -D check-code-coverage
